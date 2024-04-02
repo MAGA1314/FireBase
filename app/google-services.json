@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612269757200",
+    "project_id": "fir-maga",
+    "storage_bucket": "fir-maga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612269757200:android:c549346b4d33ea0519cb95",
+        "android_client_info": {
+          "package_name": "com.maga.firebase_maga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs_TatOLQcJF0HjDFkrIFD3QjnNOOl7jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
